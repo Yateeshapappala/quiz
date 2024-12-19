@@ -1,0 +1,67 @@
+{
+        "question": [
+          "Q1. What is the correct way to declare a variable in Python?",
+          "Q2. How do you convert a string '123' to an integer in Python?",          
+          "Q3. In Python, how do you get the length of a list named 'my_list'?",
+          "Q4. What does the 'range()' function in Python return?",
+          "Q5. How do you check if a key 'my_key' exists in a dictionary named 'my_dict'?",
+          "Q6. What is the correct way to open and read a file named 'data.txt' in Python?",
+          "Q7. What does the 'append()'' method do for lists in Python?",
+          "Q8. Which of the following is used for single-line comments in Python?"
+        ],
+        "answer": [
+          3,
+          1,
+          1,
+          3,
+          1,
+          3,
+          3,
+          4
+        ],
+        "options": [
+      
+          ["var x = 5",
+           "int x = 5",
+           "x = 5",
+           "variable x = 5"
+          ],
+          ["int('123')",
+          "integer('123')",
+          "parse_int('123')",
+          "str_to_int('123')"
+          ],
+          ["len(my_list)",
+           "size(my_list)",
+           "count(my_list)",
+           "length(my_list)"
+          ],
+          ["A list of numbers from 1 to 10",
+           "A list of even numbers from 1 to 10",
+           "A sequence of numbers from 0 to (n-1)",
+           "A sequence of odd numbers from 1 to 10"
+          ],
+          ["my_key in my_dict",
+           "my_key.exists(my_dict)",
+           "my_dict.exists(my_key)",
+           "exists(my_key, my_dict)"
+          ],
+          ["file.open('data.txt', 'r')",
+           "open('data.txt', 'read')",
+           "open('data.txt', 'r')",
+           "file.read('data.txt')"
+          ],
+          ["Removes the last element from the list",
+           "Adds an element to the beginning of the list",
+           "Adds an element to the end of the list",
+           "Reverses the order of elements in the list"
+
+          ],
+          ["/* comment */",
+           "<!-- comment -->",
+           " // comment",
+           "# comment"
+          ]
+
+        ]
+      }
